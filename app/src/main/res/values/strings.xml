@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tugas1_10121802</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="hello">Hello,</string>
+    <string name="name">Erlangga Ardiansyah R</string>
+    <string name="nama">Nama :</string>
+    <string name="deskripsi">Hallo, perkenalkan nama saya Erlangga Ardiansyah Rukmana. Saya lahir di Bandung Saya memiliki cita cita ingin menjadi Developer Android yang hebat</string>
+    <string name="profile">Profile</string>
+    <string name="logout">LOGOUT</string>
+    <string name="nama_signup">Nama</string>
+    <string name="signin">Sign In</string>
+    <string name="create">Create</string>
+</resources>
